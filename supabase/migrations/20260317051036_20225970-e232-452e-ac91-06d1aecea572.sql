@@ -1,0 +1,1 @@
+ALTER TABLE public.budget_productos ADD COLUMN cantidad_produccion numeric NOT NULL DEFAULT 1;

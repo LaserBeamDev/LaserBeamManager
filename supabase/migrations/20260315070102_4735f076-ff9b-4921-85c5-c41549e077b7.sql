@@ -1,0 +1,1 @@
+ALTER TABLE public.crm_transactions ADD COLUMN total_orden numeric NOT NULL DEFAULT 0;

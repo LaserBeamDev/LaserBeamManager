@@ -1,0 +1,4 @@
+project_id = "dmyjfvllhmyctrmrwsru"
+
+[functions.mercadopago]
+verify_jwt = false

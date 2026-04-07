@@ -1,0 +1,1 @@
+ALTER TABLE public.crm_transactions ADD COLUMN color_producto text DEFAULT NULL;
